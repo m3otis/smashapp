@@ -7,10 +7,17 @@ body {
 }
 
 .margin {
-    margin-top: 5%;
+    margin-top: 2%;
 }
 
-.wrapper {
+.wrapper-login {
+    display: grid;
+    margin-top: 5%;
+    justify-items: center;
+    color: white;
+}
+
+.wrapper-match {
     display: grid;
     margin-top: 5%;
     justify-items: center;
