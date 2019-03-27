@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+}
+
+.subtitle {
+    font-style: italic;
+}
+
+.margin {
+    margin-top: 5%;
+}
+
+.wrapper {
+    display: grid;
+    margin-top: 5%;
+    justify-items: center;
+    color: white;
+}
